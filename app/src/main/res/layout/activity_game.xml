@@ -118,7 +118,7 @@
     <Button
         android:layout_width="40dp"
         android:layout_height="40dp"
-        android:id="@+id/button16"
+        android:id="@+id/blank"
         android:layout_below="@+id/button12"
         android:layout_toRightOf="@+id/button15" />
     
